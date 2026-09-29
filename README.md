@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<a href="https://hawklabs.vn">
+  <img src="images/hawklabs_logo.png" width="140" alt="HA.WK LABS">
+</a>
+
+<p><strong>HA.WK LABS</strong> • <em>Hardware & Adaptive Works</em></p>
+
 [![Klipper](https://img.shields.io/badge/Klipper-Qidi%20Plus%205-blue.svg)](https://github.com/Klipper3d/klipper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tested On](https://img.shields.io/badge/Tested%20on-Qidi%20Plus%205%20(RK3308)-orange.svg)](https://qidi3d.com)
@@ -158,4 +164,4 @@ bash /home/qidi/uninstall_pokemon_theme.sh
 - **Icon Pack Source**: Pokémon Go icons pack by [Roundicons Freebies](https://www.flaticon.com/packs/pokemon-go) on [Flaticon](https://www.flaticon.com/).
 - **Pokémon Intellectual Property**: All Pokémon characters and imagery are trademarks and copyright of **Nintendo**, **Creatures Inc.**, and **GAME FREAK inc.** This project is a non-commercial, fan-made UI customization designed for the 3D printing community.
 - **Theme Package & Scripts**: Licensed under the [MIT License](LICENSE).
-- **Author & Packager**: **TÔN NGỘ ĐỘC** ([hawklabs.vn](https://hawklabs.vn)).
+- **Author & Maintainer**: **TÔN NGỘ ĐỘC** ([HA.WK LABS](https://hawklabs.vn) — *Hardware & Adaptive Works*).

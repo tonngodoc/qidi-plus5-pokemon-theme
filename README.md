@@ -40,19 +40,19 @@ Transform your **QIDI Plus 5** touch screen with a playful, high-resolution **Po
 ### 🌟 Features & Included Icons
 
 - **5 Starter Navigation Tabs (4 States each: Normal, Checked, Pressed, Checked Pressed):**
-  - 🏠 **Home:** Pikachu
+  - 🏠 **Home:** Psyduck (Vịt Koduck)
   - 🎮 **Control:** Charmander
-  - 🧵 **Filament:** Bulbasaur
-  - ⚙️ **Setting:** Snorlax
+  - 🧵 **Filament:** 3 Pokéballs
+  - ⚙️ **Setting:** PokéStar
   - 💬 **Message:** Squirtle
 - **Account & System Icons:**
-  - 🔴 **Avatar:** Classic Pokéball (`144x144` px)
-  - ⚡ **Assistant:** Mini Pikachu on Home & Surprised Pikachu on Message screen
+  - 🐱 **Avatar:** Meowth (`144x144` px)
+  - 🐱 **Assistant:** Mini Meowth on Home
   - 📍 **Network:** PokéStop WiFi
   - 📱 **Function:** Pokédex Phone
   - 📦 **Storage:** Pokémon Storage Box
   - 🚀 **Firmware:** Upgrade Rocket
-  - ⚙️ **Settings:** Pokémon Core Gear
+  - ⚙️ **Settings:** PokéStar Core Icon
 
 ---
 
@@ -100,19 +100,19 @@ Gói nâng cấp toàn diện giao diện màn hình cảm ứng máy in 3D **QI
 ### 🌟 Danh sách biểu tượng Pokémon trong gói
 
 - **5 Tab điều hướng Sidebar (Đầy đủ 4 trạng thái cảm ứng):**
-  - 🏠 **Trang chủ (Home):** Pikachu
+  - 🏠 **Trang chủ (Home):** Vịt Psyduck (Koduck)
   - 🎮 **Điều khiển (Control):** Khủng long lửa Charmander
-  - 🧵 **Sợi nhựa (Filament):** Ếch kỳ diệu Bulbasaur
-  - ⚙️ **Cài đặt (Setting):** Snorlax lười ngủ
+  - 🧵 **Sợi nhựa (Filament):** 3 Quả cầu Pokéball
+  - ⚙️ **Cài đặt (Setting):** Ngôi sao PokéStar
   - 💬 **Tin nhắn (Message):** Rùa Squirtle
 - **Biểu tượng trang cài đặt & Trợ lý:**
-  - 🔴 **Ảnh đại diện:** Quả cầu Pokéball kinh điển (`144x144` px)
-  - ⚡ **Trợ lý:** Pikachu mini trên trang chủ & Pikachu ngạc nhiên ở trang thông báo
+  - 🐱 **Ảnh đại diện:** Mèo Meowth (`144x144` px)
+  - 🐱 **Trợ lý:** Meowth mini trên trang chủ
   - 📍 **Mạng WiFi:** Điểm dừng chân PokéStop
   - 📱 **Chức năng:** Điện thoại Pokédex
   - 📦 **Bộ nhớ USB:** Hộp lưu trữ Pokémon
   - 🚀 **Firmware:** Tên lửa thăng cấp
-  - ⚙️ **Hệ thống:** Bánh răng PokéGear
+  - ⚙️ **Hệ thống:** Biểu tượng ngôi sao PokéStar
 
 ---
 
@@ -150,3 +150,12 @@ Nếu muốn quay trở lại biểu tượng gốc mặc định của QIDI b�
 ```bash
 bash /home/qidi/uninstall_pokemon_theme.sh
 ```
+
+---
+
+## 📜 Credits & License / Bản quyền biểu tượng
+
+- **Icon Pack Source**: Pokémon Go icons pack by [Roundicons Freebies](https://www.flaticon.com/packs/pokemon-go) on [Flaticon](https://www.flaticon.com/).
+- **Pokémon Intellectual Property**: All Pokémon characters and imagery are trademarks and copyright of **Nintendo**, **Creatures Inc.**, and **GAME FREAK inc.** This project is a non-commercial, fan-made UI customization designed for the 3D printing community.
+- **Theme Package & Scripts**: Licensed under the [MIT License](LICENSE).
+- **Author & Packager**: **TÔN NGỘ ĐỘC** ([hawklabs.vn](https://hawklabs.vn)).

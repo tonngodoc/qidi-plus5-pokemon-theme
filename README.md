@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| Control Tab (Charmander) | Fans & Cooling Menu |
+| Control Tab (Charmander & CNC) | Fans & Cooling Menu |
 | :---: | :---: |
-| <img src="images/real_screen_control.jpg" width="420" alt="Control Screen"> | <img src="images/real_screen_fans.jpg" width="420" alt="Fans Screen"> |
+| <img src="images/control_screen.png" width="420" alt="Control Screen"> | <img src="images/real_screen_fans.jpg" width="420" alt="Fans Screen"> |
 
 | Settings Sub-menu | System & Account (Pokeball) |
 | :---: | :---: |
@@ -51,6 +51,12 @@ Transform your **QIDI Plus 5** touch screen with a playful, high-resolution **Po
   - 🧵 **Filament:** 3 Pokéballs
   - ⚙️ **Setting:** PokéStar
   - 💬 **Message:** Squirtle
+- **Control Page (5 Precision CNC Silver Icons):**
+  - 🎯 **XYZ Move:** 3D Coordinate Axis (`move_ico`)
+  - 🔩 **Extruder:** CNC Spindle & Drill Head (`extruder_ico`)
+  - 🏭 **Chamber:** Enclosure CNC Machine (`chamber_ico`)
+  - 🛏️ **Bed:** Precision Flatbed Platform (`bed_ico`)
+  - ❄️ **Cooling Fan:** Subzero Coolant System (`cool_ico`)
 - **Account & System Icons:**
   - ⚡ **Account Avatar:** Pikachu (`144x144` px avatar on Settings screen)
   - 🐱 **AI Assistant:** Meowth (on Home, Printing, and Message screens)
@@ -111,6 +117,12 @@ Gói nâng cấp toàn diện giao diện màn hình cảm ứng máy in 3D **QI
   - 🧵 **Sợi nhựa (Filament):** 3 Quả cầu Pokéball
   - ⚙️ **Cài đặt (Setting):** Ngôi sao PokéStar
   - 💬 **Tin nhắn (Message):** Rùa Squirtle
+- **Trang Điều khiển (5 Biểu tượng CNC Trắng Bạc sắc nét):**
+  - 🎯 **Di chuyển XYZ:** Trục tọa độ không gian 3D (`move_ico`)
+  - 🔩 **Đầu đùn:** Trục chính máy phay & mũi khoan CNC (`extruder_ico`)
+  - 🏭 **Buồng sấy:** Máy gia công buồng kín CNC (`chamber_ico`)
+  - 🛏️ **Bàn nhiệt:** Bệ gá phôi phẳng CNC (`bed_ico`)
+  - ❄️ **Quạt làm mát:** Bình dung dịch tưới nguội âm độ (`cool_ico`)
 - **Biểu tượng trang cài đặt & Trợ lý AI:**
   - ⚡ **Ảnh đại diện Tài khoản:** Pikachu (`144x144` px trên trang Cài đặt)
   - 🐱 **Trợ lý AI:** Mèo Meowth (biểu tượng Trợ lý AI trên Trang chủ, Trang in và Màn hình Tin nhắn AI)
@@ -161,7 +173,9 @@ bash /home/qidi/uninstall_pokemon_theme.sh
 
 ## 📜 Credits & License / Bản quyền biểu tượng
 
-- **Icon Pack Source**: Pokémon Go icons pack by [Roundicons Freebies](https://www.flaticon.com/packs/pokemon-go) on [Flaticon](https://www.flaticon.com/).
+- **Icon Pack Sources**:
+  - Pokémon Go icons pack by [Roundicons Freebies](https://www.flaticon.com/packs/pokemon-go) on [Flaticon](https://www.flaticon.com/).
+  - Computer Numerical Control CNC icons pack by [Freepik](https://www.flaticon.com/packs/computer-numerical-control-cnc-18976086) on [Flaticon](https://www.flaticon.com/).
 - **Pokémon Intellectual Property**: All Pokémon characters and imagery are trademarks and copyright of **Nintendo**, **Creatures Inc.**, and **GAME FREAK inc.** This project is a non-commercial, fan-made UI customization designed for the 3D printing community.
 - **Theme Package & Scripts**: Licensed under the [MIT License](LICENSE).
 - **Author & Maintainer**: **TÔN NGỘ ĐỘC** ([HA.WK LABS](https://hawklabs.vn) — *Hardware & Adaptive Works*).

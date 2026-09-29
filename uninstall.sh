@@ -33,6 +33,7 @@ cp -rf "$BACKUP_DIR/navi/"* "$ACCESS_DIR/navi/" 2>/dev/null || true
 cp -rf "$BACKUP_DIR/setting/"* "$ACCESS_DIR/setting/" 2>/dev/null || true
 cp -rf "$BACKUP_DIR/message/"* "$ACCESS_DIR/message/" 2>/dev/null || true
 cp -rf "$BACKUP_DIR/home/"* "$ACCESS_DIR/home/" 2>/dev/null || true
+cp -rf "$BACKUP_DIR/control/"* "$ACCESS_DIR/control/" 2>/dev/null || true
 
 echo -e "${YELLOW}[*] Starting UI service...${NC}"
 echo qiditech | sudo -S systemctl start qidi-client

@@ -38,6 +38,7 @@ if [ ! -d "$BACKUP_DIR" ]; then
     cp -r "$ACCESS_DIR/setting" "$BACKUP_DIR/" 2>/dev/null || true
     cp -r "$ACCESS_DIR/message" "$BACKUP_DIR/" 2>/dev/null || true
     cp -r "$ACCESS_DIR/home" "$BACKUP_DIR/" 2>/dev/null || true
+    cp -r "$ACCESS_DIR/control" "$BACKUP_DIR/" 2>/dev/null || true
     echo -e "${GREEN}[+] Factory backup saved successfully.${NC}"
 else
     echo -e "${GREEN}[+] Factory backup already exists at $BACKUP_DIR.${NC}"
@@ -66,6 +67,7 @@ cp -rf "$SOURCE_DIR/navi/"* "$ACCESS_DIR/navi/" 2>/dev/null || true
 cp -rf "$SOURCE_DIR/setting/"* "$ACCESS_DIR/setting/" 2>/dev/null || true
 cp -rf "$SOURCE_DIR/message/"* "$ACCESS_DIR/message/" 2>/dev/null || true
 cp -rf "$SOURCE_DIR/home/"* "$ACCESS_DIR/home/" 2>/dev/null || true
+cp -rf "$SOURCE_DIR/control/"* "$ACCESS_DIR/control/" 2>/dev/null || true
 
 # 5. Restart service
 echo -e "${YELLOW}[4/4] Restarting screen UI service...${NC}"
@@ -79,6 +81,7 @@ echo -e "${GREEN}   ✨ INSTALLATION COMPLETED! / CÀI ĐẶT THÀNH CÔNG! ✨ 
 echo -e "${CYAN}   - Thiết bị: QIDI Plus 5 (Bản Nội địa)${NC}"
 echo -e "${CYAN}   - Tác giả: TÔN NGỘ ĐỘC | https://hawklabs.vn${NC}"
 echo -e "${CYAN}   - Navigation Tabs: Pikachu, Charmander, Bulbasaur, Snorlax, Squirtle${NC}"
+echo -e "${CYAN}   - Control Page: CNC Precision Silver Icons (XYZ, Extruder, Chamber, Bed, Fan)${NC}"
 echo -e "${CYAN}   - Avatar: Pokeball / Assistant: Pikachu${NC}"
 echo -e "${CYAN}   - Uninstall command: bash /home/qidi/uninstall_pokemon_theme.sh${NC}"
 echo -e "${GREEN}======================================================${NC}"

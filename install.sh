@@ -15,6 +15,7 @@ NC='\033[0m'
 echo -e "${CYAN}======================================================${NC}"
 echo -e "${YELLOW}   ⚡ QIDI PLUS 5 - POKEMON CUSTOM UI THEME INSTALLER ⚡  ${NC}"
 echo -e "${GREEN}   (Giao diện Pokemon cho màn hình cảm ứng QIDI Plus 5)  ${NC}"
+echo -e "${CYAN}   Tác giả: TÔN NGỘ ĐỘC | https://hawklabs.vn           ${NC}"
 echo -e "${CYAN}======================================================${NC}"
 
 ACCESS_DIR="/home/qidi/QIDI_Client/access"
@@ -75,6 +76,8 @@ curl -s "https://abacus.jasoncameron.dev/hit/tonngodoc-qidi-plus5-pokemon-theme/
 
 echo -e "${GREEN}======================================================${NC}"
 echo -e "${GREEN}   ✨ INSTALLATION COMPLETED! / CÀI ĐẶT THÀNH CÔNG! ✨ ${NC}"
+echo -e "${CYAN}   - Thiết bị: QIDI Plus 5 (Bản Nội địa)${NC}"
+echo -e "${CYAN}   - Tác giả: TÔN NGỘ ĐỘC | https://hawklabs.vn${NC}"
 echo -e "${CYAN}   - Navigation Tabs: Pikachu, Charmander, Bulbasaur, Snorlax, Squirtle${NC}"
 echo -e "${CYAN}   - Avatar: Pokeball / Assistant: Pikachu${NC}"
 echo -e "${CYAN}   - Uninstall command: bash /home/qidi/uninstall_pokemon_theme.sh${NC}"

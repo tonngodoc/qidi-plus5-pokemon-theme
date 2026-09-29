@@ -46,7 +46,8 @@ Transform your **QIDI Plus 5** touch screen with a playful, high-resolution **Po
   - ⚙️ **Setting:** PokéStar
   - 💬 **Message:** Squirtle
 - **Account & System Icons:**
-  - 🐱 **Avatar & AI Assistant:** Meowth (`144x144` px avatar on Settings, AI Assistant on Home, Printing, and Message screens)
+  - ⚡ **Account Avatar:** Pikachu (`144x144` px avatar on Settings screen)
+  - 🐱 **AI Assistant:** Meowth (on Home, Printing, and Message screens)
   - 📍 **Network:** PokéStop WiFi
   - 📱 **Function:** Pokédex Phone
   - 📦 **Storage:** Pokémon Storage Box
@@ -105,7 +106,8 @@ Gói nâng cấp toàn diện giao diện màn hình cảm ứng máy in 3D **QI
   - ⚙️ **Cài đặt (Setting):** Ngôi sao PokéStar
   - 💬 **Tin nhắn (Message):** Rùa Squirtle
 - **Biểu tượng trang cài đặt & Trợ lý AI:**
-  - 🐱 **Ảnh đại diện & Trợ lý AI:** Mèo Meowth (`144x144` px avatar trang Cài đặt, biểu tượng Trợ lý AI trên Trang chủ, Trang in và Màn hình Tin nhắn AI)
+  - ⚡ **Ảnh đại diện Tài khoản:** Pikachu (`144x144` px trên trang Cài đặt)
+  - 🐱 **Trợ lý AI:** Mèo Meowth (biểu tượng Trợ lý AI trên Trang chủ, Trang in và Màn hình Tin nhắn AI)
   - 📍 **Mạng WiFi:** Điểm dừng chân PokéStop
   - 📱 **Chức năng:** Điện thoại Pokédex
   - 📦 **Bộ nhớ USB:** Hộp lưu trữ Pokémon
